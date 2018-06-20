@@ -1,0 +1,79 @@
+var data = { 
+"pin": {
+	"001":
+	{
+		"Image": "_images/pin-fresh-start.jpg",
+		"Title": "Our fresh new face on the web",
+		"Copy": "We are excited to announce the launch of our new website, designed to enhance your browsing experience, and more.",
+		"Link": "index.html",
+		"IsYouTube": 0,
+		"YouTube": "",
+		"IsFaceBook": 0,
+		"IsTwitter": 0,
+		"timestamp": "1359771097000",
+		"Content": "001",
+		"ShowDisclaimer": 0,
+		"NewWindow": 0,
+		"Cat": "2"
+	},
+	"002":
+	{
+		"Image": "_images/pin-seeing-is-believing.jpg",
+		"Title": "Community Investment",
+		"Copy": "By running our operations well, standing by our clients & customers and investing in local communities, we can be a powerful force for good.",
+		"Link": "index.html",
+		"IsYouTube": 0,
+		"YouTube": "",
+		"IsFaceBook": 0,
+		"IsTwitter": 0,
+		"timestamp": "1359771097000",
+		"Content": "002",
+		"ShowDisclaimer": 0,
+		"NewWindow": 1,
+		"Cat": "2"
+	},
+	"003":
+	{
+		"Image": "_images/pin-careers.jpg",
+		"Title": "Careers",
+		"Copy": "Join us and further your career in some of the world's most dynamic markets.",
+		"Link": "index.html",
+		"IsYouTube": 0,
+		"YouTube": "",
+		"IsFaceBook": 0,
+		"IsTwitter": 0,
+		"timestamp": "1359771097000",
+		"Content": "003",
+		"ShowDisclaimer": 0,
+		"NewWindow": 1,
+		"Cat": "2"
+	},
+	"004":
+	{
+		"Image": "_images/pin-news-media.jpg",
+		"Title": "News and Media",
+		"Copy": "Find news, press materials and details of the media relations teams across our network.",
+		"Link": "index.html",
+		"IsYouTube": 0,
+		"YouTube": "",
+		"IsFaceBook": 0,
+		"IsTwitter": 0,
+		"timestamp": "1359771097000",
+		"Content": "004",
+		"ShowDisclaimer": 0,
+		"NewWindow": 1,
+		"Cat": "2"
+	}
+},
+"facebook": {
+	"id": "155725841111588",
+	"name": "Standard Chartered"
+},
+"twitter": {
+	"id": "152160788",
+	"name": "StanChartBreeze"
+},
+"sortByLastUpdate" : ["001", "002",  "003", "004"],
+"sortByPopularity" : ["004", "001", "002","003" ],
+"sortByRecommended" : ["001", "003", "002", "004"]
+}

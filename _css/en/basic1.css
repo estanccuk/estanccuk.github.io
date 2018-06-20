@@ -1,0 +1,6 @@
+#rightcontent ul li { margin:0px 5px 5px 10px; background: url("../../_images/arrow_blue.gif") top left no-repeat;}
+#rightcontent ul li a { padding: 0px 0px 0px 10px; font-size:11px; color:#74bde0; text-decoration:none; text-align:left; font-weight:normal;}
+#rightcontent ul li a:hover { color:#86C5FF; text-decoration:underline; font-weight:normal;}
+
+#demo_online ul li { margin-left:10px; margin-bottom:5px; background: url("../../_images/arrow_blue.gif") top left no-repeat;}
+#demo_online ul li a { padding: 0px 0px 0px 10px; font-size:11px; color:#04729e; text-decoration:underline; text-align:left; font-weight:normal;}

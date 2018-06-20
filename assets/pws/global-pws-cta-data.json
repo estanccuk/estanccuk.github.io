@@ -1,0 +1,21 @@
+var cta_data = { 
+	"urls": {
+		
+		"uk/index.html":
+		{
+		 	"cta-bnr-img": {"url": "http://wholesalebanking.standardchartered.com/en/about/Pages/clientrelationships.aspx", "newwin":"T"}
+		},
+		
+			"uk/en/index.html":
+		{
+		 	"cta-bnr-img": {"url": "http://wholesalebanking.standardchartered.com/en/about/Pages/clientrelationships.aspx", "newwin":"T"}
+		},
+	}
+}
+
+
+
+
+
+
+
